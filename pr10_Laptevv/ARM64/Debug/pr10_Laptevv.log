@@ -1,0 +1,3 @@
+﻿  pr10_Laptevv.cpp
+\\mac\Home\Desktop\Программирование\СП_Гариев\pr10_Laptevv\pr10_Laptevv\pr10_Laptevv.cpp(363,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pr10_Laptevv.vcxproj -> \\Mac\Home\Desktop\Программирование\СП_Гариев\pr10_Laptevv\ARM64\Debug\pr10_Laptevv.exe
